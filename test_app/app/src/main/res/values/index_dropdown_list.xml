@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="omx">
+        <item>ಪಟ್ಟಣ</item>
+        <item>ಉಡುಗೆಗಳು</item>
+    </array>
+
+    <array name="sahi_pad">
+        <item>one Mark Question</item>
+        <item>ಶಿಶುಪಾಲವಧ</item>
+    </array>
+<array name="body">
+    <item>ದೇಹದ ಅವಯವಗಳು</item>
+
+</array>
+    <array name="tree">
+        <item>ಮರದ ಭಾಗಗಳು</item>
+    </array>
+    <array name="vyakaran">
+        <item>ವ್ಯಾಕರಣ</item>
+        <item>ವಿಭಕ್ತಿ ಪ್ರಕರಣಮ್</item>
+        <item>ಸಮಾಸ</item>
+    </array>
+    <array name="worker">
+        <item>ಕ್ರಿಯಾಪದಗಳು</item>
+
+    </array>
+    <array name="animals">
+        <item>ಪ್ರಾಣಿಗಳು</item>
+    </array>
+    <array name="sahity2_padya_gadya">
+        <item>इन्द्रसंदेशः</item>
+        <item>दुष्टदमनम्</item>
+        <item>कलिविमर्शनम्</item>
+        <item>गुरुप्रणतिः</item>
+        <item>शिष्यत्रयम्</item>
+        <item>विक्रमौदार्यम्</item>
+        <item>गोग्रहणम्</item>
+        <item>अलंकार</item>
+        <item>अलंकार सलक्षणम्</item>
+
+    </array>
+
+
+</resources>
